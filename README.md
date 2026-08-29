@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Grihith Sangra</h1>
 <h3 align="center">AI & Full Stack Developer | B.Tech CSE (AI & ML) @ JUIT</h3>
 
+<!-- Dynamic Typing SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Building+Scalable+Applications;Turning+Ideas+into+Impactful+Code" alt="Typing SVG" />
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:sangragrihith@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -61,7 +63,27 @@
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 🐍 Contribution Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangragrihith/sangragrihith/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangragrihith/sangragrihith/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sangragrihith/sangragrihith/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+### 🧩 LeetCode & Problem Solving Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sangragrihith?theme=nord&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="85%"/>
+</p>
+
+---
+
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sangragrihith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
@@ -71,18 +93,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangragrihith&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%"/>
 </p>
-
-<!--
-**sangragrihith/sangragrihith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
