@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/grihith-sangra-45b54938b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/sangragrihith/" target="_blank">
+  <a href=https://leetcode.com/u/FVgnXglDRX/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
@@ -26,7 +26,7 @@
 - 🎓 Pursuing **B.Tech in CSE (AI & ML)** at **Jaypee University of Information Technology (JUIT)**
 - 💻 Passionate about developing modern full-stack web applications and implementing machine learning solutions
 - 🛠️ Currently building **[NeighbourHub](https://github.com/sangragrihith/NeighbourHub)** — a hyperlocal community platform connecting neighbors
-- 🧩 Actively solving algorithmic challenges on **[LeetCode](https://leetcode.com/u/sangragrihith/)**
+- 🧩 Actively solving algorithmic challenges on **[LeetCode](https://leetcode.com/u/FVgnXglDRX/)**
 - 🎯 Looking to collaborate on impactful open-source AI & Web projects
 - ⚡ **Fun Fact:** Turning caffeine into clean code & intelligent systems!
 
