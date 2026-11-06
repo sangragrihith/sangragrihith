@@ -1,5 +1,4 @@
-# Hi 👋, I'm Grihith Sangra
-
+ <h1 align="center">Hi 👋, I'm Grihith Sangra</h1>
 <h3 align="center">AI & Full Stack Developer | B.Tech CSE (AI & ML) @ JUIT</h3>
 
 <!-- Dynamic Typing SVG Header -->
@@ -84,10 +83,12 @@
 
 ---
 
-### 🔥 LeetCode Streak & Activity
+### 🔥 LeetCode Streak
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/grihithsangra?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Streak and Activity" width="85%"/>
+  <img src="https://leetinfo-api.vercel.app/api/badge?username=grihithsangra&stat=streak" alt="Current LeetCode Streak"/>
+  &nbsp;&nbsp;
+  <img src="https://leetinfo-api.vercel.app/api/badge?username=grihithsangra&stat=longeststreak" alt="Longest LeetCode Streak"/>
 </p>
 
 ---
