@@ -84,6 +84,14 @@
 
 ---
 
+### 🔥 LeetCode Streak & Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/grihithsangra?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Streak and Activity" width="85%"/>
+</p>
+
+---
+
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
